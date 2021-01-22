@@ -1,6 +1,12 @@
-# Parcel-Svelte Template
+# Parcel Svelte Template
 
 > Parcel starter template for Svelte.
+
+This is a starter [Parcel](https://parceljs.org) template with [Svelte.js](https://svelte.dev).
+
+![Screenshot](pss-screenshot.png)
+
+Included  features :
 
 - Linting with [Prettier](https://prettier.io/)
 - Module bundling with [Parcel](https://parceljs.org/)
